@@ -1,0 +1,7 @@
+transformers
+torch
+numpy
+fastapi
+uvicorn[standard]
+matplotlib
+scikit-learn

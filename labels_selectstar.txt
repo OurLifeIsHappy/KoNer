@@ -1,0 +1,10 @@
+O
+FNB
+PS
+AMP
+EV
+ORG
+LOC
+DT
+PER
+CUL
